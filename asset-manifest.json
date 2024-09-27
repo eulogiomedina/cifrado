@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cifrado/static/css/main.52f1b89b.css",
-    "main.js": "/cifrado/static/js/main.183f5c42.js",
+    "main.js": "/cifrado/static/js/main.6380f417.js",
     "static/js/453.a4a2f289.chunk.js": "/cifrado/static/js/453.a4a2f289.chunk.js",
     "index.html": "/cifrado/index.html",
     "main.52f1b89b.css.map": "/cifrado/static/css/main.52f1b89b.css.map",
-    "main.183f5c42.js.map": "/cifrado/static/js/main.183f5c42.js.map",
+    "main.6380f417.js.map": "/cifrado/static/js/main.6380f417.js.map",
     "453.a4a2f289.chunk.js.map": "/cifrado/static/js/453.a4a2f289.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52f1b89b.css",
-    "static/js/main.183f5c42.js"
+    "static/js/main.6380f417.js"
   ]
 }
